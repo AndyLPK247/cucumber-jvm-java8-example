@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>automation-panda</groupId>
-    <artifactId>cucumber-jvm-java-example</artifactId>
+    <artifactId>cucumber-jvm-java8-example</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <build>
@@ -35,7 +35,7 @@
         <!-- Cucumber -->
         <dependency>
             <groupId>info.cukes</groupId>
-            <artifactId>cucumber-java</artifactId>
+            <artifactId>cucumber-java8</artifactId>
             <version>1.2.5</version>
             <scope>test</scope>
         </dependency>
