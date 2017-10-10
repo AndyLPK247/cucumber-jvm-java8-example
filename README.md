@@ -28,7 +28,8 @@ To practice BDD and automation, try the following exercises:
    Add more comprehensive assertions to strengthen the test.
 2. Add a new scenario to search Google for images.
 3. Add a new scenario to perform Google searches directly using URL query parameters.
-4. Add a new feature for basic tests against Wikipedia using a new page object class.
+4. Add a new feature for basic tests against Wikipedia using a new page object class,
+   a new step definition class, and dependency injection.
    * Picking a language from the home page.
    * Searching for articles.
    * Verifying that embedded links navigate to the correct articles.
